@@ -1560,6 +1560,7 @@ MCR1,Fixed-wing,1P/S,DYN'AERO MCR-01
 MCR4,Fixed-wing,1P/S,DYN'AERO MCR-4
 MCRR,Fixed-wing,1P/S,DYN'AERO MCR-R180
 MCUL,Fixed-wing,1P/S,KIMBALL McCullocoupe
+MD10,Fixed-wing,3J/H,"BOEING, MD-10"
 MD11,Fixed-wing,3J/H,"MCDONNELL DOUGLAS, MD-11"
 MD3,Fixed-wing,1P/S,"MDB, MD-3 Swiss Trainer"
 MD3R,Fixed-wing,1P/S,"FLYITALIA, MD-3 Rider"
