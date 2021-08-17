@@ -138,7 +138,7 @@ ALC1,Fixed-wing,1P/S,"ALTAIR COELHO, AC-11"
 ALGR,Fixed-wing,1P/S,"FANTASY AIR, Allegro"
 ALH,Helicopter,2T/S,"HINDUSTAN, ALH Dhruv"
 ALIG,Fixed-wing,1P/S,"ARION, LS-1 Lightning"
-ALIZ,Fixed-wing,1T/S+,"BREGUET, 1050 Aliz�"
+ALIZ,Fixed-wing,1T/S+,"BREGUET, 1050 Alizé"
 ALO2,Helicopter,1T/S,"AEROSPATIALE, Alouette 2"
 ALO3,Helicopter,1T/S,"AEROSPATIALE, Alouette 3"
 ALPI,Fixed-wing,1P/S,"AUSTER, Alpine"
@@ -188,7 +188,7 @@ ARKS,Fixed-wing,1P/S,"ACEAIR, A-200 Aeriks 200"
 ARON,Fixed-wing,1P/S,"GENERAL AVIA, F-220 Airone"
 ARV1,Fixed-wing,1P/S,"ARV, ARV-1 Super 2"
 ARVA,Fixed-wing,2T/S+,"IAI, Arava"
-ARWF,Fixed-wing,1P/S,"ARROW (1), Sport"
+ARWF,Fixed-wing,1P/S,"ARROW (1), Sport F"
 AS02,Fixed-wing,1P/S,"FFA, AS-202-15 Bravo"
 AS14,Fixed-wing,1P/S,"SCHLEICHER, ASK-14"
 AS16,Fixed-wing,1P/S,"SCHLEICHER, ASK-16"
@@ -433,9 +433,9 @@ BT36,Fixed-wing,1P/S,"BEECH, B36TC Bonanza"
 BTUB,Fixed-wing,1P/S,"KIMBREL, Dormoy Bathtub"
 BTX1,Fixed-wing,1J/S,"BOEING, BTX-1"
 BU20,Fixed-wing,3P/S,"AIRCRAFT HYDRO-FORMING, Bushmaster 2000"
-BU31,Fixed-wing,1P/S,"BUCKER, DoBÃ¼-131 Jungmann"
-BU33,Fixed-wing,1P/S,"BUCKER, DoBÃ¼-133 Jungmeister"
-BU81,Fixed-wing,1P/S,BUCKER BÃ¼-181 Bestmann
+BU31,Fixed-wing,1P/S,"BUCKER, DoBÃÂ¼-131 Jungmann"
+BU33,Fixed-wing,1P/S,"BUCKER, DoBÃÂ¼-133 Jungmeister"
+BU81,Fixed-wing,1P/S,BUCKER BÃÂ¼-181 Bestmann
 BUC,Fixed-wing,2J/L,"HAWKER SIDDELEY, Buccaneer"
 BUCA,@Fixed-wing,1P/S,"ADVANCED AVIATION, Buccaneer"
 BULT,Fixed-wing,1P/S,"BROKAW, BJ-520 Bullet"
@@ -591,9 +591,9 @@ CH12,Helicopter,1P/S,CICARE CH-12
 CH14,Helicopter,1T/S,CICARE CH-14 Aguilucho
 CH15,Fixed-wing,1P/S,"ZENAIR, CH-150 Acro-Z"
 CH18,Fixed-wing,1P/S,"ZENAIR, CH-180 Super Acro-Z"
-CH20,Fixed-wing,1P/S,ZENAIR CH-200 ZÃ©nith
-CH25,Fixed-wing,1P/S,"ZENAIR, CH-250 ZÃ©nith"
-CH2T,Fixed-wing,1P/S,"ZENAIR, CH-2000 ZÃ©nith"
+CH20,Fixed-wing,1P/S,ZENAIR CH-200 ZÃÂ©nith
+CH25,Fixed-wing,1P/S,"ZENAIR, CH-250 ZÃÂ©nith"
+CH2T,Fixed-wing,1P/S,"ZENAIR, CH-2000 ZÃÂ©nith"
 CH30,Fixed-wing,1P/S,"ZENAIR, CH-300 Tri-Z"
 CH40,Fixed-wing,2P/S,"CHAMPION, 402 Lancer"
 CH50,Fixed-wing,1P/S,"ZENAIR, CH-50 Mini-Z"
@@ -673,8 +673,8 @@ CP30,Fixed-wing,1P/S,"PIEL, CP-30 Emeraude"
 CP32,Fixed-wing,1P/S,"PIEL, CP-320 Super Emeraude"
 CP60,Fixed-wing,1P/S,"PIEL, CP-60 Diamant"
 CP65,Fixed-wing,1P/S,"PORTERFIELD, CP-65 Collegiate"
-CP75,Fixed-wing,1P/S,PIEL CP-70 BÃ©ryl
-CP80,Fixed-wing,1P/S,PIEL CP-80 ZÃ©phir
+CP75,Fixed-wing,1P/S,PIEL CP-70 BÃÂ©ryl
+CP80,Fixed-wing,1P/S,PIEL CP-80 ZÃÂ©phir
 CP90,Fixed-wing,1P/S,"PIEL, CP-90 Pinocchio"
 CPNA,Fixed-wing,1P/S,"PENA, Capena"
 CPUP,Fixed-wing,1P/S,"CULP, Sopwith Pup"
@@ -726,7 +726,7 @@ D6,Fixed-wing,1P/S,"BEAGLE-AUSTER, D-6"
 D6CR,Fixed-wing,1P/S,"DRUINE, D-60 Condor"
 D7,Fixed-wing,1P/S,FOKKER D-7 Replica
 D8,Fixed-wing,1P/S,FOKKER D-8 Replica
-D9,Fixed-wing,1P/S,"JODEL, D9 Bébé"
+D9,Fixed-wing,1P/S,"JODEL, D9 BÃ©bÃ©"
 DA2,Fixed-wing,1P/S,"DAVIS, DA-2"
 DA36,Fixed-wing,1E/S,"DIAMOND, DA-36 E-Star"
 DA40,Fixed-wing,1P/S,"DIAMOND, DA-40 Club Star"
@@ -795,7 +795,7 @@ DIES,Fixed-wing,1P/S,"PENNEC-LUCAS, Dieselis"
 DIJ3,Fixed-wing,1P/S,DIJKMAN-DULKES Dijkhastar 3
 DIJ4,@Fixed-wing,1P/S,DIJKMAN-DULKES Dijkhastar 4
 DIMO,Fixed-wing,1P/S,"DIAMOND, HK-36 MPX"
-DINO,Fixed-wing,1P/S,GANZAVIA GAK-22 DinÃ³
+DINO,Fixed-wing,1P/S,GANZAVIA GAK-22 DinÃÂ³
 DIPR,@Fixed-wing,1P/S,"COLLINS, Dipper"
 DISC,Fixed-wing,1P/S,"SCHEMPP-HIRTH, Discus 2T"
 DJET,Fixed-wing,1J/S,"DIAMOND, DJ-1 D-Jet"
@@ -976,10 +976,10 @@ F86,Fixed-wing,1J/L,"NORTH AMERICAN, F-86 Sabre"
 F8L,Fixed-wing,1P/S,"AVIAMILANO, F-8L Falco"
 F900,Fixed-wing,3J/L,"DASSAULT, Falcon 900"
 F9F,Fixed-wing,1J/S+,"GRUMMAN, F9F Panther"
-FA01,Fixed-wing,1P/S,FLÃ„MING AIR FA-01 Saphir
-FA02,Fixed-wing,1P/S,"FLÃ„MING AIR, FA-02 Smaragd VLA"
-FA03,Fixed-wing,1P/S,"FLÃ„MING AIR, FA-03 Smaragd TMG"
-FA04,Fixed-wing,1P/S,"FLÃ„MING AIR, FA-04 Peregrine"
+FA01,Fixed-wing,1P/S,FLÃâMING AIR FA-01 Saphir
+FA02,Fixed-wing,1P/S,"FLÃâMING AIR, FA-02 Smaragd VLA"
+FA03,Fixed-wing,1P/S,"FLÃâMING AIR, FA-03 Smaragd TMG"
+FA04,Fixed-wing,1P/S,"FLÃâMING AIR, FA-04 Peregrine"
 FA10,Fixed-wing,2J/S+,"DASSAULT, Falcon 10"
 FA11,Fixed-wing,1P/S,"FAIRCHILD (2), F-11 Husky"
 FA20,Fixed-wing,2J/S+,"DASSAULT, Falcon 20"
@@ -1101,7 +1101,7 @@ GC1,Fixed-wing,1P/S,"GLOBE, GC-1 Swift"
 GDUK,@Fixed-wing,2P/S,"ELLISON-MAHON, Gweduck"
 GEMI,Fixed-wing,2P/S,"MILES, M-65 Gemini"
 GENI,Fixed-wing,1E/S,"IFB, E-Genius"
-GEPE,Fixed-wing,1P/S,AERO SERVICES GuÃªpe 
+GEPE,Fixed-wing,1P/S,AERO SERVICES GuÃÂªpe 
 GF20,Fixed-wing,1P/S,"GROB, GF-200"
 GFLY,Fixed-wing,1J/S+,"SCALED, 311 Global Flyer"
 GL5T,Fixed-wing,2J/L,"BOMBARDIER, BD-700 Global 5000"
@@ -1213,7 +1213,7 @@ HUML,Fixed-wing,1P/S,"HUMMEL, Hummel Bird"
 HUMM,Fixed-wing,1P/S,"AEROTEK (2), Hummingbird"
 HUNT,Fixed-wing,1J/S+,"HAWKER, Hunter"
 HURI,Fixed-wing,1P/S,"HAWKER, Hurricane"
-HURK,Fixed-wing,1T/S,TAI TT-32 HÃ¼rku?
+HURK,Fixed-wing,1T/S,TAI TT-32 HÃÂ¼rku?
 HUSK,Fixed-wing,1P/S,"AVIAT, A-1 Husky"
 HW4P,Gyrocopter,1P/S,"GROEN, Hawk 4"
 HW4T,Gyrocopter,1T/S,"GROEN, Jet Hawk 4T"
@@ -1234,7 +1234,7 @@ I828,Fixed-wing,1T/S,"ICA, IAR-828"
 IA46,Fixed-wing,1P/S,"DINFIA, IA-46 Ranquel"
 IA50,Fixed-wing,2T/S+,"DINFIA, IA-50 Guarani 2"
 IA51,Fixed-wing,1P/S,"DINFIA, IA-51 Tehuelche"
-IA58,Fixed-wing,2T/S+,FMA IA-58 PucarÃ¡
+IA58,Fixed-wing,2T/S+,FMA IA-58 PucarÃÂ¡
 IA63,Fixed-wing,1J/S,"FMA, IA-63 Pampa"
 IFUR,Fixed-wing,1P/S,"ISAACS, Fury"
 IL14,Fixed-wing,2P/S+,"ILYUSHIN, Il-14"
@@ -1329,7 +1329,7 @@ K250,Fixed-wing,1P/S,"KESTREL (1), K-250"
 K35E,Fixed-wing,4J/H,"BOEING, KC-135E Stratotanker"
 K35R,Fixed-wing,4J/H,"BOEING, KC-135R Stratotanker"
 K50,Fixed-wing,1J/S+,"KOREA AEROSPACE, T-50 Golden Eagle"
-K51,Fixed-wing,1P/S,"KOVÃƒÂCS, K-51 Peregrino"
+K51,Fixed-wing,1P/S,"KOVÃÆÃÂCS, K-51 Peregrino"
 K8,Fixed-wing,1J/S,"HONGDU, K-8 Karakorum"
 KA25,Helicopter,2T/S+,"KAMOV, Ka-25"
 KA26,Helicopter,2P/S,"KAMOV, Ka-26"
@@ -1379,7 +1379,7 @@ KR30,Fixed-wing,1P/S,"EKOLOT, KR-030 Topaz"
 KR31,Fixed-wing,1P/S,"FAIRCHILD (1), KR-31"
 KR34,Fixed-wing,1P/S,"FAIRCHILD (1), KR-34"
 KRAG,Fixed-wing,1P/S,"SOKO, J-20 Kraguj"
-KRAH,Fixed-wing,1P/S,ROCK KrÃ¤he
+KRAH,Fixed-wing,1P/S,ROCK KrÃÂ¤he
 KRIC,Fixed-wing,1P/S,"FLSZ, DK-1 Der Kricket"
 KSTK,Fixed-wing,2P/S,"PHOENIX-AVIACOR, M-12 Kasatik"
 KT1,Fixed-wing,1T/S,"KOREA AEROSPACE, KT-1 Woong-Bee"
@@ -1619,7 +1619,7 @@ MITE,Fixed-wing,1P/S,"MOONEY, M-18 Mite"
 MJ10,Fixed-wing,1P/S,"JURCA, MJ-10 Spit"
 MJ12,Fixed-wing,1P/S,"JURCA, MJ-12 P-40"
 MJ1H,Fixed-wing,1P/S,"JURCA, MJ-100 Spitfire Replica"
-MJ2,Fixed-wing,1P/S,JURCA MJ-2 TempÃªte
+MJ2,Fixed-wing,1P/S,JURCA MJ-2 TempÃÂªte
 MJ3,Fixed-wing,1P/S,"JURCA, MJ-3 Dart"
 MJ4,Fixed-wing,1P/S,"JURCA, MJ-4 Shadow"
 MJ5,Fixed-wing,1P/S,"JURCA, MJ-5 Sirocco"
@@ -1676,7 +1676,7 @@ MSQ2,Fixed-wing,1P/S,"BACKCOUNTRY, Mackey SQ-2"
 MT,Gyrocopter,1P/S,"ROTORSPORT, MT-03"
 MT2,Fixed-wing,2J/S+,"MITSUBISHI, T-2"
 MU2,Fixed-wing,2T/S,"MITSUBISHI, MU-2 Marquise"
-MU23,Fixed-wing,1P/S,AKAFLIEG MUNCHEN MÃ¼-23 Saurier
+MU23,Fixed-wing,1P/S,AKAFLIEG MUNCHEN MÃÂ¼-23 Saurier
 MU30,Fixed-wing,2J/S+,"MITSUBISHI, MU-300 Diamond"
 MUS2,Fixed-wing,1P/S,"MUSTANG, M-2 Mustang 2"
 MVN1,Fixed-wing,1P/S,"MVEN, 1 Fermer"
@@ -1690,7 +1690,7 @@ MXS,Fixed-wing,1P/S,"MXR, MXS"
 MY12,Fixed-wing,1P/S,"MYLIUS, MY-102 Tornado"
 MY13,Fixed-wing,1P/S,"MYLIUS, MY-103 Mistral"
 MYA4,Fixed-wing,4J/H,"MYASISHCHEV, M-4"
-MYS4,Fixed-wing,1J/S+,DASSAULT MD-454A MystÃ¨re 4A
+MYS4,Fixed-wing,1J/S+,DASSAULT MD-454A MystÃÂ¨re 4A
 N110,Fixed-wing,1P/S,"NORD, 1100 Noralpha"
 N120,Fixed-wing,1P/S,"NORD, 1200 Norecrin"
 N250,Fixed-wing,2T/L,"NUSANTARA, N-250"
@@ -1856,7 +1856,7 @@ PHNX,Fixed-wing,1P/S,"FREEDOM, Phoenix"
 PIAE,Fixed-wing,1E/S,"PIPISTREL, Alpha Electro"
 PIAT,Fixed-wing,1P/S,"PIPISTREL, Alpha Trainer"
 PICO,Fixed-wing,1P/S,"GENERAL AVIA, F-15 Picchio"
-PILL,Fixed-wing,1P/S,CASA T-35 PillÃ¡n
+PILL,Fixed-wing,1P/S,CASA T-35 PillÃÂ¡n
 PINO,Fixed-wing,1P/S,"GENERAL AVIA, F-22 Pinguino"
 PIPA,Fixed-wing,1P/S,"PIPISTREL, Panthera"
 PISI,Fixed-wing,1P/S,"PIPISTREL, Sinus"
@@ -1927,7 +1927,7 @@ PZ04,Fixed-wing,1P/S,"PZL-OKECIE, PZL-104 Wilga 35"
 PZ05,Fixed-wing,1P/S,"PZL-OKECIE, PZL-105 Flaming"
 PZ06,Fixed-wing,1P/S,"PZL-OKECIE, PZL-106A Kruk"
 PZ12,Fixed-wing,1P/S,"PZL-OKECIE, PZL-112 Junior"
-PZ26,Fixed-wing,1P/S,PZL-OKECIE PZL-126 MrÃ³wka
+PZ26,Fixed-wing,1P/S,PZL-OKECIE PZL-126 MrÃÂ³wka
 PZ3T,Fixed-wing,1T/S,"PZL-OKECIE, PZL-130 Orlik"
 PZ4M,Fixed-wing,1P/S,"PZL-OKECIE, PZL-104M Wilga 2000"
 PZ6T,Fixed-wing,1T/S,"PZL-OKECIE, PZL-106BT Turbo Kruk"
@@ -2161,7 +2161,7 @@ SF24,Fixed-wing,1P/S,"SCHEIBE, SF-24 Motorspatz"
 SF25,Fixed-wing,1P/S,"SCHEIBE, SF-25 Falke"
 SF27,Fixed-wing,1P/S,"SCHEIBE, SF-27M"
 SF28,Fixed-wing,1P/S,"SCHEIBE, SF-28 Tandem Falke"
-SF31,Fixed-wing,1P/S,"SPORTAVIA-PÃƒÂœTZER, SFS-31 Milan"
+SF31,Fixed-wing,1P/S,"SPORTAVIA-PÃÆÃÅTZER, SFS-31 Milan"
 SF32,Fixed-wing,1P/S,"SCHEIBE, SF-32"
 SF34,Fixed-wing,2T/L,"SAAB, 340"
 SF35,Fixed-wing,1P/S,SCHEIBE SF-35
@@ -2217,7 +2217,7 @@ SM20,Fixed-wing,1T/S,"TECHNOAVIA, SM-2000"
 SM60,Fixed-wing,3P/S,"STINSON, SM-6000 Tri-Motor"
 SM92,Fixed-wing,1P/S,"TECHNOAVIA, SM-92 Finist"
 SMAX,@Fixed-wing,1P/S,"AIRMAX, M-22 SeaMax"
-SMB2,Fixed-wing,1J/S+,"DASSAULT, Super MystÃ¨re B2"
+SMB2,Fixed-wing,1J/S+,"DASSAULT, Super MystÃÂ¨re B2"
 SNAD,Gyrocopter,1P/S,"CALUMET, 636 Snobird Adventurer"
 SNAP,Fixed-wing,1P/S,"DALLAIR, FR-01 Snap"
 SNGY,Fixed-wing,1P/S,"LANCAIR, T-90 Calima"
@@ -2423,7 +2423,7 @@ TOR,Fixed-wing,2J/L,"PANAVIA, Tornado"
 TOUR,Fixed-wing,1P/S,"MILLICER, M-10 AirTourer"
 TOXO,Fixed-wing,1P/S,"CAG, Toxo"
 TP40,Fixed-wing,1P/S,"THUNDER WINGS, Curtiss P-40"
-TPIL,Fixed-wing,1T/S,ENAER T-35DT Turbo PillÃ¡n
+TPIL,Fixed-wing,1T/S,ENAER T-35DT Turbo PillÃÂ¡n
 TPIN,Fixed-wing,2P/S+,"SCOTTISH AVIATION, Twin Pioneer"
 TR1,@Fixed-wing,1P/S,"TRIDENT, TR-1 Trigull"
 TR20,Fixed-wing,1P/S,"FEUGRAY, TR-200"
@@ -2595,8 +2595,8 @@ WP47,Fixed-wing,1P/S,WAR Republic P-47 Thunderbolt
 WS22,Fixed-wing,1P/S,"SPRING, WS-202 Sprint"
 WSP,Fixed-wing,1P/S,"AAK, Wasp"
 WT9,Fixed-wing,1P/S,"AEROSPOOL, WT-9 Dynamic"
-WUSH,@Fixed-wing,1P/S,WÃœST Shark
-WW1,Fixed-wing,1P/S,WHITE WW-1 Der JÃ¤ger D-9
+WUSH,@Fixed-wing,1P/S,WÃÅST Shark
+WW1,Fixed-wing,1P/S,WHITE WW-1 Der JÃÂ¤ger D-9
 WW23,Fixed-wing,2J/S+,"IAI, 1123 Westwind"
 WW24,Fixed-wing,2J/S+,"IAI, 1124 Westwind 2"
 WZ10,Helicopter,2T/S+,"CHANGHE, WZ-10"
@@ -2661,8 +2661,8 @@ ZEPH,Fixed-wing,1P/S,"ATEC, 122 Zephyr"
 ZERO,Fixed-wing,1P/S,"MITSUBISHI, A6M Zero"
 ZIA,Fixed-wing,1P/S,"APPLEBAY, Zia"
 ZIU,Fixed-wing,1P/S,"TAI, ZIU"
-ZULU,Fixed-wing,1P/S,BUL ZÃ¹lÃ¹
+ZULU,Fixed-wing,1P/S,BUL ZÃÂ¹lÃÂ¹
 ZZZZ,,,"(any manufacturer), Aircraft type not (yet) assigned a designator"
 ,,,
 An asterisk () next to an aircraft type designator denotes a single-piloted military turbojet aircraft,,,
-"Amphibians are denoted as Â“@Fixed-wing,Â” and seaplanes are denoted as Â“$Fixed-wing.Â”",,,
+"Amphibians are denoted as Ãâ@Fixed-wing,Ãâ and seaplanes are denoted as Ãâ$Fixed-wing.Ãâ",,,
