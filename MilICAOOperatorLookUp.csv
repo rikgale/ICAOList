@@ -3,6 +3,7 @@ Angolan Air Force,
 Algerian Air Force,KJD
 Argentine Air Force,FAG
 Austrian Air Force,ASF
+Australian Defence Force Joint Helicopter School,ADFJHS
 Bahrain Defence Force,BFW
 Bangladesh Air Force,BDAF
 Bangladesh Army,BDARMY
@@ -34,6 +35,7 @@ French Army,FMY
 French Navy,FNY
 German Air Force,GAF
 German Navy,GNY
+Government of Algeria,KJD
 Greek Air Force,HAF
 Hungarian Air Force,HUF
 Indian Air Force,IFC
@@ -90,15 +92,18 @@ Romanian Air Force,ROF
 Royal Air Force,RFR
 Royal Air Force of Oman,MJN
 Royal Australian Air Force,ASY
+Royal Australian Army Aviation Corps,RAAAC
 Royal Canadian Air Force,CFC
 Royal Danish Air Force,DAF
 Royal Jordanian Air Force,RJZ
 Royal Netherlands Air Force,NAF
+Royal Malaysian Air Force,RMF
 Royal New Zealand Air Force,KIW
 Royal Norwegian Air Force,NOW
 Royal Saudi Air Force,RSF
 Royal Thai Air Force,RTAF
 Royal Thai Army,THAIARMY
+Royal Thai Navy,RTNVY
 Russian Air Force,RSF
 Russian Navy,RFN
 Russian FSB,RSD
@@ -122,6 +127,7 @@ United States Coast Guard,USCG
 United States Marine Corps,USMC
 United States Navy,CNV
 United States Army,PAT
+US Department of Homeland Security,USDHS
 Uzbekistan Air Force,
 Venezuelan Air Force,
 Zambian Air Force,
