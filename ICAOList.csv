@@ -1586,6 +1586,7 @@ M6,LandPlane,1/Piston,"MAULE, M-6 Super Rocket"
 M600,LandPlane,1/Turboprop/Turboshaft,"PIPER, PA-46-600TP M600"
 M7,LandPlane,1/Piston,"MAULE, MX-7-180 Star Rocket"
 M74,Helicopter,1/Piston,"TEXAS HELICOPTER, M-74 Wasp"
+M700,LandPlane,1/Turboprop/Turboshaft,"PA-46-701TP M700 Fury"
 M7T,LandPlane,1/Turboprop/Turboshaft,"MAULE, MX-7-420 Star Craft"
 M8,LandPlane,1/Piston,"MAULE, M-8"
 M9,LandPlane,1/Piston,"MAULE, M-9"
@@ -2763,5 +2764,6 @@ UHEL,0,/,"(any manufacturer), Ultralight helicopter"
 ULAC,0,/,"(any manufacturer), Ultralight aircraft"
 VFHC,0,/,"(any manufacturer), UA Vertical Flight and Hover Capability"
 ZZZZ,0,/,"(any manufacturer), Aircraft type not (yet) assigned a designator"
+
 
 
