@@ -2664,7 +2664,7 @@ X3,Helicopter,2/Turboprop/Turboshaft,"EUROCOPTER, X-3"
 X4,LandPlane,1/Piston,"ROBIN, X-4"
 X47B,LandPlane,1/Jet,"NORTHROP GRUMMAN, X-47B"
 X49,Helicopter,2/Turboprop/Turboshaft,"PIASECKI, X-49 SpeedHawk"
-X59,LandPlane,1/Jet,"LOCKHEED MARTIN,	X-59 QueSST"
+X59,LandPlane,1/Jet,"LOCKHEED MARTIN, X-59 QueSST"
 XA41,LandPlane,1/Piston,"XTREMEAIR, XA-41"
 XA42,LandPlane,1/Piston,"XTREMEAIR, XA-42"
 XA85,LandPlane,1/Piston,"RAJ HAMSA, XA-85 X-Air LS"
@@ -2765,6 +2765,7 @@ UHEL,0,/,"(any manufacturer), Ultralight helicopter"
 ULAC,0,/,"(any manufacturer), Ultralight aircraft"
 VFHC,0,/,"(any manufacturer), UA Vertical Flight and Hover Capability"
 ZZZZ,0,/,"(any manufacturer), Aircraft type not (yet) assigned a designator"
+
 
 
 
