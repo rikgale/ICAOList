@@ -1188,6 +1188,7 @@ GY30,LandPlane,1/Piston,"CAB, GY-30 Supercab"
 GY80,LandPlane,1/Piston,"SOCATA, GY-80 Horizon"
 H111,LandPlane,2/Piston,"HEINKEL, He-111"
 H12T,Helicopter,1/Turboprop/Turboshaft,"HILLER, UH-12E3T"
+H140,Helicopter,2/Turboprop/Turboshaft,"AIRBUS HELICOPTERS, H-140"
 H160,Helicopter,2/Turboprop/Turboshaft,"AIRBUS HELICOPTERS, H-160"
 H2,Helicopter,2/Turboprop/Turboshaft,"KAMAN, SH-2 Seasprite"
 H202,LandPlane,1/Piston,"HB-AIRCRAFT, HB-202 Fledger"
@@ -2765,6 +2766,7 @@ UHEL,0,/,"(any manufacturer), Ultralight helicopter"
 ULAC,0,/,"(any manufacturer), Ultralight aircraft"
 VFHC,0,/,"(any manufacturer), UA Vertical Flight and Hover Capability"
 ZZZZ,0,/,"(any manufacturer), Aircraft type not (yet) assigned a designator"
+
 
 
 
